@@ -1,0 +1,14 @@
+C:\Users\joaov\Desktop\source\Exercicioaula142\bin\Debug\net8.0\Exercicioaula142.exe
+C:\Users\joaov\Desktop\source\Exercicioaula142\bin\Debug\net8.0\Exercicioaula142.deps.json
+C:\Users\joaov\Desktop\source\Exercicioaula142\bin\Debug\net8.0\Exercicioaula142.runtimeconfig.json
+C:\Users\joaov\Desktop\source\Exercicioaula142\bin\Debug\net8.0\Exercicioaula142.dll
+C:\Users\joaov\Desktop\source\Exercicioaula142\bin\Debug\net8.0\Exercicioaula142.pdb
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.AssemblyInfo.cs
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.dll
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\refint\Exercicioaula142.dll
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.pdb
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\Exercicioaula142.genruntimeconfig.cache
+C:\Users\joaov\Desktop\source\Exercicioaula142\obj\Debug\net8.0\ref\Exercicioaula142.dll
